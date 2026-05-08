@@ -1,0 +1,6 @@
+likes_animal(alice, cat).
+likes_animal(bob, dog).
+likes_animal(charlie, cat).
+likes_animal(dani, rabbit).
+likes_animal(ella, dog).
+
